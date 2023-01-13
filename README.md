@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepgandhi95
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning about Data science and Deep Learning
+- 👀 I’m interested in Image Analysis and Data science
+- 🌱 I’m currently learning about Data science and Artifical Intelligence (specifically Deep Learning)
 - 💞️ I’m looking to collaborate on projects at the intersecion of Data science and healthcare
 - 📫 How to reach me: gandhideep44@gmail.com or https://www.linkedin.com/in/gandhideep04/
 
